@@ -1,0 +1,122 @@
+[
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 1,
+      "categoryId": 1001,
+      "sellerId": 1234,
+      "price": 100,
+      "quantity": 2
+    }
+  },
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 2,
+      "categoryId": 2002,
+      "sellerId": 5004,
+      "price": 50,
+      "quantity": 3
+    }
+  },
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 3,
+      "categoryId": 2002,
+      "sellerId": 5004,
+      "price": 50,
+      "quantity": 3
+    }
+  },
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 4,
+      "categoryId": 2002,
+      "sellerId": 5004,
+      "price": 50,
+      "quantity": 3
+    }
+  },
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 5,
+      "categoryId": 2002,
+      "sellerId": 5004,
+      "price": 50,
+      "quantity": 3
+    }
+  },
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 6,
+      "categoryId": 2002,
+      "sellerId": 5004,
+      "price": 50,
+      "quantity": 2
+    }
+  },
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 7,
+      "categoryId": 2002,
+      "sellerId": 5004,
+      "price": 50,
+      "quantity": 2
+    }
+  },
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 8,
+      "categoryId": 2002,
+      "sellerId": 5004,
+      "price": 50,
+      "quantity": 2
+    }
+  },
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 9,
+      "categoryId": 2002,
+      "sellerId": 5004,
+      "price": 50,
+      "quantity": 2
+    }
+  },
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 10,
+      "categoryId": 2002,
+      "sellerId": 5004,
+      "price": 50,
+      "quantity": 2
+    }
+  },
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 11,
+      "categoryId": 2002,
+      "sellerId": 5004,
+      "price": 50,
+      "quantity": 2
+    }
+  },
+
+  {
+    "command": "displayCart"
+  },
+  {
+    "command": "resetCart"
+  },
+  {
+    "command": "displayCart"
+  }
+]

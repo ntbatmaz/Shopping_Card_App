@@ -1,0 +1,14 @@
+{"result":true,"message":"Item added to cart"}
+{"result":true,"message":"Item added to cart"}
+{"result":true,"message":"Item added to cart"}
+{"result":true,"message":"Item added to cart"}
+{"result":true,"message":"Item added to cart"}
+{"result":true,"message":"Item added to cart"}
+{"result":true,"message":"Item added to cart"}
+{"result":true,"message":"Item added to cart"}
+{"result":true,"message":"Item added to cart"}
+{"result":true,"message":"Item added to cart"}
+{"result":false,"message":"Cart can contain a maximum of 10 unique items(excluding VasItems). ItemId with 11 can't added."}
+{"result":true,"message":{"items":[{"itemId":1,"categoryId":1001,"sellerId":1234,"price":100,"quantity":2,"vasItems":[]},{"itemId":2,"categoryId":2002,"sellerId":5004,"price":50,"quantity":3,"vasItems":[]},{"itemId":3,"categoryId":2002,"sellerId":5004,"price":50,"quantity":3,"vasItems":[]},{"itemId":4,"categoryId":2002,"sellerId":5004,"price":50,"quantity":3,"vasItems":[]},{"itemId":5,"categoryId":2002,"sellerId":5004,"price":50,"quantity":3,"vasItems":[]},{"itemId":6,"categoryId":2002,"sellerId":5004,"price":50,"quantity":2,"vasItems":[]},{"itemId":7,"categoryId":2002,"sellerId":5004,"price":50,"quantity":2,"vasItems":[]},{"itemId":8,"categoryId":2002,"sellerId":5004,"price":50,"quantity":2,"vasItems":[]},{"itemId":9,"categoryId":2002,"sellerId":5004,"price":50,"quantity":2,"vasItems":[]},{"itemId":10,"categoryId":2002,"sellerId":5004,"price":50,"quantity":2,"vasItems":[]}],"totalPrice":1050,"appliedPromotionId":1232,"totalDiscount":250}}
+{"result":true,"message":"Cart reset"}
+{"result":true,"message":{"items":[],"totalPrice":0,"appliedPromotionId":null,"totalDiscount":0}}
